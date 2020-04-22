@@ -1,6 +1,5 @@
 # Iso_Coils
-Plot the coils for an isodynamic stellarator
-The Plot_helical_coils.py file will plot the coils and can also create the .sldcrv files if you prefer. It can also plot the results of Aaronbader's flf code on the graph with the coils. 
+The Plot_helical_coils.py file will plot the coils and can also create the .sldcrv files if you prefer to generate your own. It can also plot the results of Aaronbader's flf code on the graph with the coils. 
 
 To get the .sldcrv files into solidworks use either download them or generate them with the Plot_helical_coils.py code, then:
    insert -> curves -> curve through xyz points
